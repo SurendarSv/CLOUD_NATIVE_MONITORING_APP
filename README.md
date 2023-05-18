@@ -1,5 +1,5 @@
 # CLOUD_NATIVE_MONITORING_APP
-1. create Python Monitoring Application using Flask from scratch.
+1. Create Python Monitoring Application using Flask from scratch.
 2. Run the Python application locally on port 5000
 3. Containerize the application using Docker
 4. Write Dockerfile
